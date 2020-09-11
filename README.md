@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AI learning**
 
-- 👨‍💻 All of my projects are available at [dalisoft.uz](https://dalisoft.uz)
+- 👨‍💻 All of my public and open-source projects are available at my GitHub [profile](https://github.com/dalisoft)
 
 - 💬 Ask me about **react, tween, nodejs, nanoexpress**
 
