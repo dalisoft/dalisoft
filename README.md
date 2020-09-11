@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm dalisoft</h1>
-<h3 align="center">Javascript developer, open-source enthusiast, privacy-cared guy. Founder of @nanoexpress and es6-tween.</h3>
+<h3 align="center">Javascript developer, open-source enthusiast, privacy-cared guy. Founder of [nanoexpress](https://github.com/nanoexpress) and [es6-tween](https://github.com/tweenjs/es6-tween).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalisoft" alt="dalisoft" /> </p>
 
