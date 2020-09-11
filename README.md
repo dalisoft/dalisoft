@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dalisoft" alt="dalisoft" /> </p>
 
-- 🔭 I’m currently working on [nanoexpress](nanoexpress.js.org)
+- 🔭 I’m currently working on [nanoexpress](https://nanoexpress.js.org)
 
 - 🌱 I’m currently learning **Machine / Deep Learning**
 
-- 👯 I’m looking to collaborate on [Fastify](fastify.io)
+- 👯 I’m looking to collaborate on [Fastify](https://fastify.io)
 
 - 🤝 I’m looking for help with **AI learning**
 
-- 👨‍💻 All of my projects are available at [dalisoft.uz](dalisoft.uz)
+- 👨‍💻 All of my projects are available at [dalisoft.uz](https://dalisoft.uz)
 
 - 💬 Ask me about **react, tween, nodejs, nanoexpress**
 
