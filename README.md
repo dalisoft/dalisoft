@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine / Deep Learning**
 
-- 👯 I’m looking to collaborate on [Fastify](https://fastify.io)
+<strike> - 👯 I’m looking to collaborate on []() </strike>
 
-- 🤝 I’m looking for help with **AI learning**
+<strike> - 🤝 I’m looking for help with **AI learning** </strike>
 
 - 👨‍💻 All of my public and open-source projects are available at my GitHub [profile](https://github.com/dalisoft)
 
