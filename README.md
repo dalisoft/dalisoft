@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Machine / Deep Learning**
 
-<strike> - 👯 I’m looking to collaborate on []() </strike>
+- 👯 <strike>  I’m looking to collaborate on []() </strike>
 
-<strike> - 🤝 I’m looking for help with **AI learning** </strike>
+- 🤝 <strike> I’m looking for help with **AI learning** </strike>
 
 - 👨‍💻 All of my public and open-source projects are available at my GitHub [profile](https://github.com/dalisoft)
 
