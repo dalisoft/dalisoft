@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm dalisoft</h1>
 <h3 align="center">Javascript developer, open-source enthusiast, privacy-cared guy</h3>
 
-## My stacks
+## Top stacks
 
 <p align='center'>
+<b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
+</p>
+
+<details>
+<summary>All stacks</summary>
 
 | Stack          | Name                        | Experience |
 | -------------- | --------------------------- | ---------- |
@@ -34,7 +39,7 @@
 | DevOps         | Ansible                     | 1+ year    |
 | AI             | Tensorflow / Keras          | ~6 month   |
 
-</p>
+</details>
 
 ## Contacts
 
