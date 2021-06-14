@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm dalisoft</h1>
-<h3 align="center">Javascript developer, open-source enthusiast, privacy-cared guy</h3>
+<h1 align="center">Hi 👋, I'm Davlat</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
 ## Top stacks
 
 <p align='center'>
 <b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
 </p>
+
+<details>
+  <summary>Statistics</summary>
+  
+[![Davlatjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalisoft)](https://github.com/anuraghazra/github-readme-stats)
+  
+</details>
 
 <details>
 <summary>All stacks</summary>
