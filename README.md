@@ -48,7 +48,28 @@
 
 </details>
 
-## Contacts
+## More
 
-- Follow me on [Twitter](https://twitter.com/dalisoft)
-- See more about portfolio at [LinkedIn](https://www.linkedin.com/in/dalisoft/)
+<p align="center">
+          <a href="https://github.com/dalisoft" target="_blank" alt="GitHub">
+            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/github.webp" />
+          </a>
+          <a href="https://linkedin.com/in/dalisoft" target="_blank" alt="LinkedIn">
+            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/linkedin.webp" />
+          </a>
+          <a href="https://twitter.com/dalisoft" target="_blank" alt="Twitter">
+            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/twitter.webp" />
+          </a>
+</p>
+
+## Questions left?
+
+Ask me at questions@dalisoft.uz
+
+## Sponsorship offers?
+
+Mail me at opensource@dalisoft.uz
+
+## Commercial questions/offers?
+
+Mail me at commercial@dalisoft.uz
