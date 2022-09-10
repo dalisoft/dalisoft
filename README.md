@@ -52,13 +52,13 @@
 
 <p align="center">
           <a href="https://github.com/dalisoft" target="_blank" alt="GitHub">
-            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/github.png" />
+            GitHub
           </a>
           <a href="https://linkedin.com/in/dalisoft" target="_blank" alt="LinkedIn">
-            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/linkedin.png" />
+            LinkedIn
           </a>
           <a href="https://twitter.com/dalisoft" target="_blank" alt="Twitter">
-            <img width="48" height="48" src="https://github.com/dalisoft/config/raw/master/signature/twitter.png" />
+            Twitter
           </a>
 </p>
 
