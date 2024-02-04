@@ -9,7 +9,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&theme=dark&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -46,12 +46,12 @@
 
 ## Questions left?
 
-Ask me at questions@dalisoft.uz
+Ask me at <questions@dalisoft.uz>
 
 ## Sponsorship offers?
 
-Mail me at opensource@dalisoft.uz
+Mail me at <opensource@dalisoft.uz>
 
 ## Commercial questions/offers?
 
-Mail me at commercial@dalisoft.uz
+Mail me at <commercial@dalisoft.uz>
