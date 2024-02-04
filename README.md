@@ -7,8 +7,8 @@
 <b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
 </p>
   
-[![Davlatjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalisoft&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![Davlatjon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Davlatjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Davlatjon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## More
 
