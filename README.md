@@ -6,9 +6,29 @@
 <p align='center'>
 <b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
 </p>
-  
-[![Davlatjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![Davlatjon's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Davlatjon's GitHub stats" height="350" />
+</picture>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie" alt="Davlatjon's Top Langs" height="350" />
+</picture>
 
 ## More
 
