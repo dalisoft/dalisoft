@@ -7,8 +7,10 @@
 <b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
 </p>
 
+<p align='left'>
 <img src="https://github-readme-stats.vercel.app/api?username=dalisoft&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Davlatjon's GitHub stats" height="350" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalisoft&show_icons=true&layout=pie" alt="Davlatjon's Top Langs" height="350" />
+</p>
 
 ## More
 
