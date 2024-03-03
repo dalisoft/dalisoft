@@ -4,7 +4,7 @@
 ## Top stacks
 
 <p align='center'>
-<b>React - Node.js - PostgreSQL - Docker - CircleCI</b>
+<b>Javascript/TypeScript - SQL - DevOps</b>
 </p>
 
 <p align='left'>
