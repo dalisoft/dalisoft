@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Davlatjon Sh's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1223, Total Commits  (last year) : 684, Total PRs: 915, Total PRs Merged: 800, Merged PRs Percentage: 87.43, Total PRs Reviewed: 17, Total Issues: 547, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 35</desc>
+        <desc id="descId">Total Stars Earned: 1224, Total Commits  (last year) : 690, Total PRs: 915, Total PRs Merged: 800, Merged PRs Percentage: 87.43, Total PRs Reviewed: 22, Total Issues: 547, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 39</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 11.131925893821728;
+        stroke-dashoffset: 10.9779906656467;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >684</text>
+      >690</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >17</text>
+      >22</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -297,7 +297,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >35</text>
+      >39</text>
     </g>
   </g>
     </svg>
