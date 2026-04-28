@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Davlatjon Sh's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1257, Total Commits  (last year) : 709, Total PRs: 934, Total PRs Merged: 817, Merged PRs Percentage: 87.47, Total PRs Reviewed: 24, Total Issues: 552, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 39</desc>
+        <desc id="descId">Total Stars Earned: 1259, Total Commits  (last year) : 707, Total PRs: 932, Total PRs Merged: 815, Merged PRs Percentage: 87.45, Total PRs Reviewed: 24, Total Issues: 552, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 38</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 10.572497520866753;
+        stroke-dashoffset: 10.589615402543126;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >709</text>
+      >707</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >934</text>
+      >932</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >817</text>
+      >815</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.47 %</text>
+      >87.45 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -297,7 +297,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >39</text>
+      >38</text>
     </g>
   </g>
     </svg>
