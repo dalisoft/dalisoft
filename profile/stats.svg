@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Davlatjon Sh's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1279, Total Commits  (last year) : 705, Total PRs: 936, Total PRs Merged: 819, Merged PRs Percentage: 87.50, Total PRs Reviewed: 24, Total Issues: 552, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 37</desc>
+        <desc id="descId">Total Stars Earned: 1281, Total Commits  (last year) : 710, Total PRs: 939, Total PRs Merged: 822, Merged PRs Percentage: 87.54, Total PRs Reviewed: 24, Total Issues: 552, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 37</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 10.574252375992764;
+        stroke-dashoffset: 10.48784602868832;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >705</text>
+      >710</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >936</text>
+      >939</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >819</text>
+      >822</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >87.50 %</text>
+      >87.54 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
