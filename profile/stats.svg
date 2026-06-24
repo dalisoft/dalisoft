@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Davlatjon Sh's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 1316, Total Commits  (last year) : 700, Total PRs: 964, Total PRs Merged: 844, Merged PRs Percentage: 87.55, Total PRs Reviewed: 24, Total Issues: 554, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 40</desc>
+        <desc id="descId">Total Stars Earned: 1317, Total Commits  (last year) : 700, Total PRs: 964, Total PRs Merged: 844, Merged PRs Percentage: 87.55, Total PRs Reviewed: 24, Total Issues: 554, Total Discussions Started: 35, Total Discussions Answered: 13, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 10.561177368823518;
+        stroke-dashoffset: 10.558934161596968;
       }
     }
   
